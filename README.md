@@ -28,15 +28,9 @@
 
 ---
 
-## Technical Depth
-
-`Data Modeling` `Data Warehousing` `Streaming Pipelines` `ETL/ELT` `SQL` `KQL` `Data Governance` `SOX Compliance` `ML Anomaly Detection` `Agentic AI` `LLMs` `Cloud-Native Architecture` `APIs`
-
----
-
 ## Currently
 
-Targeting **Senior / Principal Technical PM and TPM roles** with a data-platform or AI/ML focus — particularly at companies in cloud data infrastructure, AI, fintech, and healthcare tech.
+Targeting **Senior / Principal Technical PM and TPM roles** with a data-platform or AI/ML focus — particularly at companies in cloud data infrastructure, AI, fintech, edtech and healthcare tech.
 
 Open to Greater Seattle area in-person roles and remote roles nationwide.
 
